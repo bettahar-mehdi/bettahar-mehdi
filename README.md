@@ -37,7 +37,7 @@ I create **end-to-end ML pipelines**, from raw data preprocessing to production-
 ---
 
 ## 📫 Contact Me
-- Email: mehdi.bettahar@example.com  
+- Email: bettahar2000@gmail.com  
 - LinkedIn: [linkedin.com/in/bettahar-mehdi]https://www.linkedin.com/feed/  
 
 
