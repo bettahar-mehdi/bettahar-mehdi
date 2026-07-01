@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mehdi Bettahar
-**Machine Learning Engineer & Data Analyst** | Freelance | Python, ML, MLOps, Bioinformatics  
+**Machine Learning Engineer & Data Analyst** | Freelance | Python, ML, MLOps  
 
 ---
 
