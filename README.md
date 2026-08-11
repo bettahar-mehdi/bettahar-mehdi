@@ -23,8 +23,6 @@ I create **end-to-end ML pipelines**, from raw data preprocessing to production-
 | **CompoundInsight / Prion Predictor** | End-to-end ML + MLOps pipeline predicting bioactivity against prion proteins. | [Repo](https://github.com/bettahar-mehdi/prion_predictor) |
 | **Speech-enabled Chatbot** | NLP-based chatbot using Python for interactive Q&A applications. | [Repo](https://github.com/bettahar-mehdi/speech_enabled_chatbot) |
 
-*(You can add screenshots or GIFs in README for more visual impact)*
-
 ---
 
 ## 🛠️ Skills
