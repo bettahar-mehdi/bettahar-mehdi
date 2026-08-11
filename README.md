@@ -20,7 +20,6 @@ I create **end-to-end ML pipelines**, from raw data preprocessing to production-
 
 | Project | Description | Demo / Repo |
 |---------|-------------|-------------|
-| **Financial Inclusion Prediction** | Predict bank account ownership using ML and Streamlit for decision support. | [Repo](https://github.com/bettahar-mehdi/financial-inclusion-prediction) |
 | **CompoundInsight / Prion Predictor** | End-to-end ML + MLOps pipeline predicting bioactivity against prion proteins. | [Repo](https://github.com/bettahar-mehdi/prion_predictor) |
 | **Speech-enabled Chatbot** | NLP-based chatbot using Python for interactive Q&A applications. | [Repo](https://github.com/bettahar-mehdi/speech_enabled_chatbot) |
 
